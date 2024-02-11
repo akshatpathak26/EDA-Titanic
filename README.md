@@ -1,6 +1,6 @@
 # Titanic Data Analysis and Visualization
 
-This Jupyter notebook performs exploratory data analysis (EDA) and visualization on the Titanic dataset from Kaggle.
+EDA and visualization on the Titanic dataset from Kaggle.
 
 ## Contents
 
